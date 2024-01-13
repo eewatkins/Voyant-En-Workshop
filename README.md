@@ -2,7 +2,7 @@
 
 Welcome!
 
-[**A written version**](https://github.com/eewatkins/Voyant-En-Workshop/blob/26e962265b29bf59e2cfeb6041251a9eff2f323b/Watkins_PoetryOfFrequency.pdf) of this workshop has been added to this repository. Check it out!
+[A written version](https://github.com/eewatkins/Voyant-En-Workshop/blob/26e962265b29bf59e2cfeb6041251a9eff2f323b/Watkins_PoetryOfFrequency.pdf) of this workshop has been added to this repository. Check it out! (Please note: you must download the raw file for links within the PDF to work.)
 
 To get started, go to https://voyant-tools.org to open Voyant's start page OR download a local version called VoyantServer [using these instructions.](https://voyant-tools.org/docs/#!/guide/server)
 
